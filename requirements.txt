@@ -1,12 +1,7 @@
-Flask
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
+flask
 numpy
 scipy
 scikit-learn
 matplotlib
 pandas
 flasgger
-
